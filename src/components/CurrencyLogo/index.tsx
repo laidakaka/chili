@@ -46,7 +46,7 @@ export default function CurrencyLogo({
   }, [currency, uriLocations])
 
   if (currency === ETHER) {
-    return <StyledBnbLogo src="/images/coins/bnb.png" size={size} style={style} />
+    return <StyledBnbLogo src="https://gateway.pinata.cloud/ipfs/QmXPcrBdyAgGuifoWMg6a8TBW4H5T69wTqxsoZmo9Juqbi?preview=1" size={size} style={style} />
   }
 
   return (currency as any)?.symbol ? (

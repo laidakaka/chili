@@ -16,7 +16,7 @@
       "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmXPcrBdyAgGuifoWMg6a8TBW4H5T69wTqxsoZmo9Juqbi?preview=1"
     },
     {
       "name": "Bakery Token",
@@ -32,7 +32,7 @@
       "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmbhNa4sm73vzksYfRu3jSoCgLJQTCSxe2RBwcHbGKe4wM?preview=1"
     },
     {
       "name": "Ethereum Token",
@@ -40,7 +40,7 @@
       "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmbSsjCeLmm67qPsobbxbEoxcCndBXTB67wzoLupFGAA56?preview=1"
     },
     {
       "name": "BTCB Token",
@@ -48,7 +48,7 @@
       "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png"
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmdyfWCKsDXteiSGDbJyGTNib4UFuA9ZPsVFG5ZoA8ZZbm?preview=1"
     },
     {
       "name": "BAND Protocol Token",
@@ -72,7 +72,7 @@
       "address": "0x55d398326f99059ff775485246999027b3197955",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x55d398326f99059ff775485246999027b3197955.png"
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmQYqZ7Ad63yQZpfNxSvcG7VTL6WfbytKbtaB55y4vzqG2?preview=1"
     },
     {
       "name": "XRP Token",
