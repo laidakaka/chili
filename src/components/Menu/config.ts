@@ -46,7 +46,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Discord',
-        href: 'https://chiliswap.net',
+        href: 'https://discord.gg/Z6smT22HTT',
       },
       {
         label: 'Github',
