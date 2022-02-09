@@ -155,6 +155,14 @@
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xeca41281c24451168a37211f0bc2b8645af45092.png"
     },
     {
+      "name": "FistToken",
+      "symbol": "FIST",
+      "address": "0xC9882dEF23bc42D53895b8361D0b1EDC7570Bc6A",
+      "chainId": 56,
+      "decimals": 6,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/Qmb819SZDHvkWMpj3DpDiasSkPAv56hECaCw284i4JB4tr?preview=1"
+    },
+    {
       "name": "SafeMoon",
       "symbol": "SAFEMOON",
       "address": "0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3",
